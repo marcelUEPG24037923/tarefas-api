@@ -1,9 +1,9 @@
 # API REST - Gerenciador de Tarefas
 
 ## Autores do projeto
-Bruno Holowchak Montagna
-Marcel Busato Bittencourt
-Vitor Giovani Clock
+- Bruno Holowchak Montagna
+- Marcel Busato Bittencourt
+- Vitor Giovani Clock
 
 ## Objetivo
 Este projeto é uma API RESTful desenvolvida em **Java 17** com **Spring Boot 3**, que permite gerenciar uma lista de tarefas (To-Do List).  
