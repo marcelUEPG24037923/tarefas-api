@@ -5,6 +5,8 @@
 - Marcel Busato Bittencourt
 - Vitor Giovani Clock
 
+---
+
 ## Objetivo
 Este projeto é uma API RESTful desenvolvida em **Java 17** com **Spring Boot 3**, que permite gerenciar uma lista de tarefas (To-Do List).  
 A aplicação suporta operações de **CRUD completo** (criar, consultar, atualizar e deletar) além de filtros e atualização de status.  
