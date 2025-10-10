@@ -23,7 +23,7 @@ A aplicação suporta operações de **CRUD completo** (criar, consultar, atuali
 
 ---
 
-## Estrutura da Entidade `Tarefa`
+## Estrutura da Entidade Tarefa
 - **id (long)** → Identificador único da tarefa (PK, auto gerado)  
 - **descricao (String)** → Texto descritivo da tarefa (máx. 100 caracteres, obrigatório)  
 - **concluida (boolean)** → Status da tarefa (padrão = false)  
